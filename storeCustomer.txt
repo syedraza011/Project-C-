@@ -1,0 +1,4 @@
+c001;syed; 1234 Brooklyn Ave; 718123456;4.08;
+c002;JOhn Stit;8650 your street ; (647) 917-9982;101.57;
+c003;Ahmed Khodir;987 Forrest hills ave Staten Island 10314;(917) 000-2314;32.09;
+c004;asli;2800 forrest street si ;(876) 567-9878;15.24;
